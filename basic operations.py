@@ -15,3 +15,10 @@ print(10>9)
 print(20>110)
 print(20==10)
 print(0==0)
+print(20<30<40)
+#logical operators
+print(5>10 and 30<90)
+print(5>10 or 30<90)
+print(not(5>10 and 30<90))
+
+
